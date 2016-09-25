@@ -1,0 +1,11 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/akeating/typed-phoenix/45c903576912e2c5d09d3b16fca9105b922be506/typings.json",
+    "raw": "registry:npm/phoenix#1.2.0+20160823012234",
+    "main": "./priv/static/phoenix.d.ts",
+    "version": "1.2.0",
+    "name": "phoenix",
+    "type": "typings"
+  }
+}
